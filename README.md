@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Besir!
-👨🏻‍💻 Currently working on [CoinGecko](https://www.coingecko.com/) as a Software Engineer<br/>
+👨🏻‍💻 Currently working at [CoinGecko](https://www.coingecko.com/) as a Software Engineer<br/>
 👨🏻‍🎓 Studied Computer Science, at the Hacettepe University, Turkey.<br/>
 
 ![Besir's GitHub stats](https://github-readme-stats.vercel.app/api?username=besirkassab&show_icons=true&theme=dracula)
